@@ -1,0 +1,144 @@
+{
+  "prospect_search": {
+    "error": "'NoneType' object has no attribute 'get'",
+    "status": "failed"
+  },
+  "enrichment": {},
+  "scoring": {},
+  "outreach_content": {},
+  "send": {},
+  "response_tracking": {
+    "campaign_id": null,
+    "responses": [
+      {
+        "lead_email": "john@acme.com",
+        "opened": false,
+        "clicked": false,
+        "replied": false,
+        "meeting_booked": false,
+        "response_time_hours": null,
+        "sentiment": null
+      },
+      {
+        "lead_email": "sarah@techflow.com",
+        "opened": true,
+        "clicked": false,
+        "replied": false,
+        "meeting_booked": false,
+        "response_time_hours": null,
+        "sentiment": null
+      },
+      {
+        "lead_email": "mike@cloudco.com",
+        "opened": true,
+        "clicked": false,
+        "replied": false,
+        "meeting_booked": false,
+        "response_time_hours": null,
+        "sentiment": null
+      },
+      {
+        "lead_email": "lisa@datasoft.com",
+        "opened": false,
+        "clicked": false,
+        "replied": false,
+        "meeting_booked": false,
+        "response_time_hours": null,
+        "sentiment": null
+      },
+      {
+        "lead_email": "tom@salestech.com",
+        "opened": true,
+        "clicked": true,
+        "replied": true,
+        "meeting_booked": false,
+        "response_time_hours": 49.0,
+        "sentiment": "positive"
+      },
+      {
+        "lead_email": "anna@growthco.com",
+        "opened": false,
+        "clicked": false,
+        "replied": false,
+        "meeting_booked": false,
+        "response_time_hours": null,
+        "sentiment": null
+      },
+      {
+        "lead_email": "david@innovate.com",
+        "opened": false,
+        "clicked": false,
+        "replied": false,
+        "meeting_booked": false,
+        "response_time_hours": null,
+        "sentiment": null
+      },
+      {
+        "lead_email": "emma@scaleco.com",
+        "opened": false,
+        "clicked": false,
+        "replied": false,
+        "meeting_booked": false,
+        "response_time_hours": null,
+        "sentiment": null
+      },
+      {
+        "lead_email": "chris@b2bsaas.com",
+        "opened": true,
+        "clicked": false,
+        "replied": false,
+        "meeting_booked": false,
+        "response_time_hours": null,
+        "sentiment": null
+      },
+      {
+        "lead_email": "rachel@leadgen.com",
+        "opened": true,
+        "clicked": false,
+        "replied": false,
+        "meeting_booked": false,
+        "response_time_hours": null,
+        "sentiment": null
+      }
+    ],
+    "metrics": {
+      "open_rate": 0.5,
+      "click_rate": 0.1,
+      "reply_rate": 0.1,
+      "meeting_rate": 0.0,
+      "total_sent": 10
+    }
+  },
+  "feedback_trainer": {
+    "analysis": {
+      "top_performing_segments": [
+        "Leads with recent funding signal (estimated 20% higher reply rate)"
+      ],
+      "underperforming_segments": [
+        "Leads without verified email (estimated 50% lower delivery)"
+      ],
+      "key_insights": [
+        "Average response time: 49.0 hours"
+      ]
+    },
+    "recommendations": [
+      {
+        "category": "TIMING",
+        "current_value": "Send anytime",
+        "suggested_value": "Send Tuesday-Thursday, 10 AM-2 PM local time",
+        "rationale": "Industry data shows 40% higher engagement during mid-week mornings.",
+        "expected_impact": "Increase overall engagement by 15-20%",
+        "confidence": 0.75
+      },
+      {
+        "category": "FOLLOW_UP",
+        "current_value": "Single touch",
+        "suggested_value": "Implement 3-touch follow-up sequence (Day 0, Day 3, Day 7)",
+        "rationale": "Multi-touch sequences increase meeting bookings by 2-3x.",
+        "expected_impact": "Increase meeting rate to 8-12%",
+        "confidence": 0.9
+      }
+    ],
+    "approval_status": "pending"
+  }
+}

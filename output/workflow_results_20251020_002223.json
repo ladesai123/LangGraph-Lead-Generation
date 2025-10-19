@@ -1,0 +1,1099 @@
+{
+  "prospect_search": {
+    "leads": [
+      {
+        "company": "OpenAI",
+        "contact_name": "Lade Sai Teja",
+        "email": "126156075@sastra.ac.in",
+        "title": "Data Science Intern",
+        "industry": "Artificial Intelligence",
+        "company_size": 3000,
+        "estimated_revenue": 100000000,
+        "location": "USA",
+        "technologies": [
+          "GPT-5",
+          "Azure",
+          "Python",
+          "TensorFlow"
+        ],
+        "recent_news": "OpenAI recently launched GPT-5 and expanded its partnership with Microsoft for enterprise AI solutions",
+        "growth_signals": [
+          "recent_product_launch",
+          "partnership_expansion"
+        ],
+        "linkedin": "https://linkedin.com/in/lade-sai-teja",
+        "company_description": "OpenAI is a leading AI research and deployment company focused on ensuring artificial general intelligence benefits all of humanity"
+      },
+      {
+        "company": "Google",
+        "contact_name": "Shanmuga Priya",
+        "email": "126005041@sastra.ac.in",
+        "title": "Machine Learning Research Assistant",
+        "industry": "Internet & Cloud Computing",
+        "company_size": 150000,
+        "estimated_revenue": 280000000000,
+        "location": "USA",
+        "technologies": [
+          "Gemini",
+          "TensorFlow",
+          "Google Cloud",
+          "Kubernetes"
+        ],
+        "recent_news": "Google introduced Gemini 2, a next-generation multimodal AI model integrated into Google Workspace",
+        "growth_signals": [
+          "recent_product_launch",
+          "ai_innovation"
+        ],
+        "linkedin": "https://linkedin.com/in/shanmuga-priya",
+        "company_description": "Google is a global technology leader specializing in internet services, cloud computing, and artificial intelligence"
+      },
+      {
+        "company": "Meta",
+        "contact_name": "Venkateshwarlu",
+        "email": "125004343@sastra.ac.in",
+        "title": "Software Engineering Intern",
+        "industry": "Social Media & Virtual Reality",
+        "company_size": 70000,
+        "estimated_revenue": 116000000000,
+        "location": "USA",
+        "technologies": [
+          "React",
+          "PyTorch",
+          "Instagram API",
+          "Threads"
+        ],
+        "recent_news": "Meta is focusing on expanding its AI-powered creator tools for Instagram and Threads",
+        "growth_signals": [
+          "ai_innovation",
+          "product_expansion"
+        ],
+        "linkedin": "https://linkedin.com/in/venkateshwarlu",
+        "company_description": "Meta builds technologies that help people connect, find communities, and grow businesses through social platforms"
+      },
+      {
+        "company": "Amazon Web Services",
+        "contact_name": "Kumar",
+        "email": "126156074@sastra.ac.in",
+        "title": "Cloud Developer Intern",
+        "industry": "Cloud Infrastructure",
+        "company_size": 60000,
+        "estimated_revenue": 90000000000,
+        "location": "USA",
+        "technologies": [
+          "AWS Lambda",
+          "SageMaker",
+          "EC2",
+          "Bedrock"
+        ],
+        "recent_news": "AWS recently announced new AI infrastructure features to support generative AI startups globally",
+        "growth_signals": [
+          "recent_product_launch",
+          "market_expansion"
+        ],
+        "linkedin": "https://linkedin.com/in/kumar",
+        "company_description": "AWS is the world's most comprehensive cloud platform, offering AI/ML infrastructure and services"
+      },
+      {
+        "company": "NVIDIA",
+        "contact_name": "Narsi",
+        "email": "126015065@sastra.ac.in",
+        "title": "Deep Learning Research Fellow",
+        "industry": "Semiconductors & AI",
+        "company_size": 30000,
+        "estimated_revenue": 60000000000,
+        "location": "USA",
+        "technologies": [
+          "CUDA",
+          "Blackwell GPU",
+          "TensorRT",
+          "NeMo"
+        ],
+        "recent_news": "NVIDIA unveiled its new Blackwell GPU architecture designed for large-scale generative AI workloads",
+        "growth_signals": [
+          "recent_product_launch",
+          "ai_hardware_leadership"
+        ],
+        "linkedin": "https://linkedin.com/in/narsi",
+        "company_description": "NVIDIA is a computing platform company powering AI, data science, and high-performance computing"
+      },
+      {
+        "company": "Adobe",
+        "contact_name": "SaiTejaInc",
+        "email": "ladesaiteja24@gmail.com",
+        "title": "AI Product Analyst",
+        "industry": "Creative Software & AI",
+        "company_size": 30000,
+        "estimated_revenue": 18000000000,
+        "location": "USA",
+        "technologies": [
+          "Firefly",
+          "Photoshop",
+          "Premiere Pro",
+          "Sensei AI"
+        ],
+        "recent_news": "Adobe launched Firefly 3.0 with enhanced generative image and video creation features for designers",
+        "growth_signals": [
+          "recent_product_launch",
+          "creative_ai_innovation"
+        ],
+        "linkedin": "https://linkedin.com/in/saitejainc",
+        "company_description": "Adobe is changing the world through digital experiences, offering creative and marketing software powered by AI"
+      },
+      {
+        "company": "Anthropic",
+        "contact_name": "Shanmuga",
+        "email": "shanmugapriyapalanivel2005@gmail.com",
+        "title": "NLP Research Intern",
+        "industry": "Artificial Intelligence",
+        "company_size": 1500,
+        "estimated_revenue": 850000000,
+        "location": "USA",
+        "technologies": [
+          "Claude",
+          "Constitutional AI",
+          "Python",
+          "PyTorch"
+        ],
+        "recent_news": "Anthropic released Claude 3.5, an advanced model with strong reasoning and safety alignment capabilities",
+        "growth_signals": [
+          "recent_product_launch",
+          "ai_safety_leadership"
+        ],
+        "linkedin": "https://linkedin.com/in/shanmuga",
+        "company_description": "Anthropic is an AI safety company building reliable, interpretable, and steerable AI systems"
+      },
+      {
+        "company": "Tesla",
+        "contact_name": "Lade Chandar Rao",
+        "email": "ladechandarrao35@gmail.com",
+        "title": "Data Analytics Associate",
+        "industry": "Automotive & Clean Energy",
+        "company_size": 140000,
+        "estimated_revenue": 96000000000,
+        "location": "USA",
+        "technologies": [
+          "Autopilot",
+          "Dojo",
+          "Python",
+          "Computer Vision"
+        ],
+        "recent_news": "Tesla announced plans to expand its AI data center for training autonomous driving models",
+        "growth_signals": [
+          "ai_infrastructure_expansion",
+          "autonomous_driving"
+        ],
+        "linkedin": "https://linkedin.com/in/lade-chandar-rao",
+        "company_description": "Tesla accelerates the world's transition to sustainable energy through electric vehicles and AI-powered autonomy"
+      },
+      {
+        "company": "IBM Research",
+        "contact_name": "Rishi",
+        "email": "126156007@sastra.ac.in",
+        "title": "Data Science Intern",
+        "industry": "Enterprise AI & Cloud",
+        "company_size": 250000,
+        "estimated_revenue": 60000000000,
+        "location": "USA",
+        "technologies": [
+          "Watson",
+          "IBM Cloud",
+          "Quantum Computing",
+          "AI Governance"
+        ],
+        "recent_news": "IBM Research recently unveiled new AI-powered data governance tools for enterprise customers",
+        "growth_signals": [
+          "recent_product_launch",
+          "enterprise_ai_focus"
+        ],
+        "linkedin": "https://linkedin.com/in/rishi",
+        "company_description": "IBM Research pioneers innovation in AI, quantum computing, and enterprise technology solutions"
+      },
+      {
+        "company": "Hugging Face",
+        "contact_name": "Lohit Paturi",
+        "email": "126156101@sastra.ac.in",
+        "title": "AI Community Engineer",
+        "industry": "Open Source & Machine Learning",
+        "company_size": 750,
+        "estimated_revenue": 70000000,
+        "location": "USA",
+        "technologies": [
+          "Transformers",
+          "Diffusers",
+          "Gradio",
+          "Hugging Face Hub"
+        ],
+        "recent_news": "Hugging Face launched new open-source APIs for model sharing and community collaboration",
+        "growth_signals": [
+          "recent_product_launch",
+          "open_source_leadership"
+        ],
+        "linkedin": "https://linkedin.com/in/lohit-paturi",
+        "company_description": "Hugging Face is the AI community's platform for sharing and collaborating on machine learning models"
+      }
+    ],
+    "count": 10,
+    "source": "real_data_file"
+  },
+  "enrichment": {
+    "enriched_leads": [
+      {
+        "company": "OpenAI",
+        "contact_name": "Lade Sai Teja",
+        "email": "126156075@sastra.ac.in",
+        "title": "Data Science Intern",
+        "industry": "Artificial Intelligence",
+        "company_size": 3000,
+        "estimated_revenue": 100000000,
+        "location": "USA",
+        "technologies": [
+          "GPT-5",
+          "Azure",
+          "Python",
+          "TensorFlow"
+        ],
+        "recent_news": "OpenAI recently launched GPT-5 and expanded its partnership with Microsoft for enterprise AI solutions",
+        "growth_signals": [
+          "recent_product_launch",
+          "partnership_expansion"
+        ],
+        "linkedin": "https://linkedin.com/in/lade-sai-teja",
+        "company_description": "OpenAI is a leading AI research and deployment company focused on ensuring artificial general intelligence benefits all of humanity"
+      },
+      {
+        "company": "Google",
+        "contact_name": "Shanmuga Priya",
+        "email": "126005041@sastra.ac.in",
+        "title": "Machine Learning Research Assistant",
+        "industry": "Internet & Cloud Computing",
+        "company_size": 150000,
+        "estimated_revenue": 280000000000,
+        "location": "USA",
+        "technologies": [
+          "Gemini",
+          "TensorFlow",
+          "Google Cloud",
+          "Kubernetes"
+        ],
+        "recent_news": "Google introduced Gemini 2, a next-generation multimodal AI model integrated into Google Workspace",
+        "growth_signals": [
+          "recent_product_launch",
+          "ai_innovation"
+        ],
+        "linkedin": "https://linkedin.com/in/shanmuga-priya",
+        "company_description": "Google is a global technology leader specializing in internet services, cloud computing, and artificial intelligence"
+      },
+      {
+        "company": "Meta",
+        "contact_name": "Venkateshwarlu",
+        "email": "125004343@sastra.ac.in",
+        "title": "Software Engineering Intern",
+        "industry": "Social Media & Virtual Reality",
+        "company_size": 70000,
+        "estimated_revenue": 116000000000,
+        "location": "USA",
+        "technologies": [
+          "React",
+          "PyTorch",
+          "Instagram API",
+          "Threads"
+        ],
+        "recent_news": "Meta is focusing on expanding its AI-powered creator tools for Instagram and Threads",
+        "growth_signals": [
+          "ai_innovation",
+          "product_expansion"
+        ],
+        "linkedin": "https://linkedin.com/in/venkateshwarlu",
+        "company_description": "Meta builds technologies that help people connect, find communities, and grow businesses through social platforms"
+      },
+      {
+        "company": "Amazon Web Services",
+        "contact_name": "Kumar",
+        "email": "126156074@sastra.ac.in",
+        "title": "Cloud Developer Intern",
+        "industry": "Cloud Infrastructure",
+        "company_size": 60000,
+        "estimated_revenue": 90000000000,
+        "location": "USA",
+        "technologies": [
+          "AWS Lambda",
+          "SageMaker",
+          "EC2",
+          "Bedrock"
+        ],
+        "recent_news": "AWS recently announced new AI infrastructure features to support generative AI startups globally",
+        "growth_signals": [
+          "recent_product_launch",
+          "market_expansion"
+        ],
+        "linkedin": "https://linkedin.com/in/kumar",
+        "company_description": "AWS is the world's most comprehensive cloud platform, offering AI/ML infrastructure and services"
+      },
+      {
+        "company": "NVIDIA",
+        "contact_name": "Narsi",
+        "email": "126015065@sastra.ac.in",
+        "title": "Deep Learning Research Fellow",
+        "industry": "Semiconductors & AI",
+        "company_size": 30000,
+        "estimated_revenue": 60000000000,
+        "location": "USA",
+        "technologies": [
+          "CUDA",
+          "Blackwell GPU",
+          "TensorRT",
+          "NeMo"
+        ],
+        "recent_news": "NVIDIA unveiled its new Blackwell GPU architecture designed for large-scale generative AI workloads",
+        "growth_signals": [
+          "recent_product_launch",
+          "ai_hardware_leadership"
+        ],
+        "linkedin": "https://linkedin.com/in/narsi",
+        "company_description": "NVIDIA is a computing platform company powering AI, data science, and high-performance computing"
+      },
+      {
+        "company": "Adobe",
+        "contact_name": "SaiTejaInc",
+        "email": "ladesaiteja24@gmail.com",
+        "title": "AI Product Analyst",
+        "industry": "Creative Software & AI",
+        "company_size": 30000,
+        "estimated_revenue": 18000000000,
+        "location": "USA",
+        "technologies": [
+          "Firefly",
+          "Photoshop",
+          "Premiere Pro",
+          "Sensei AI"
+        ],
+        "recent_news": "Adobe launched Firefly 3.0 with enhanced generative image and video creation features for designers",
+        "growth_signals": [
+          "recent_product_launch",
+          "creative_ai_innovation"
+        ],
+        "linkedin": "https://linkedin.com/in/saitejainc",
+        "company_description": "Adobe is changing the world through digital experiences, offering creative and marketing software powered by AI"
+      },
+      {
+        "company": "Anthropic",
+        "contact_name": "Shanmuga",
+        "email": "shanmugapriyapalanivel2005@gmail.com",
+        "title": "NLP Research Intern",
+        "industry": "Artificial Intelligence",
+        "company_size": 1500,
+        "estimated_revenue": 850000000,
+        "location": "USA",
+        "technologies": [
+          "Claude",
+          "Constitutional AI",
+          "Python",
+          "PyTorch"
+        ],
+        "recent_news": "Anthropic released Claude 3.5, an advanced model with strong reasoning and safety alignment capabilities",
+        "growth_signals": [
+          "recent_product_launch",
+          "ai_safety_leadership"
+        ],
+        "linkedin": "https://linkedin.com/in/shanmuga",
+        "company_description": "Anthropic is an AI safety company building reliable, interpretable, and steerable AI systems"
+      },
+      {
+        "company": "Tesla",
+        "contact_name": "Lade Chandar Rao",
+        "email": "ladechandarrao35@gmail.com",
+        "title": "Data Analytics Associate",
+        "industry": "Automotive & Clean Energy",
+        "company_size": 140000,
+        "estimated_revenue": 96000000000,
+        "location": "USA",
+        "technologies": [
+          "Autopilot",
+          "Dojo",
+          "Python",
+          "Computer Vision"
+        ],
+        "recent_news": "Tesla announced plans to expand its AI data center for training autonomous driving models",
+        "growth_signals": [
+          "ai_infrastructure_expansion",
+          "autonomous_driving"
+        ],
+        "linkedin": "https://linkedin.com/in/lade-chandar-rao",
+        "company_description": "Tesla accelerates the world's transition to sustainable energy through electric vehicles and AI-powered autonomy"
+      },
+      {
+        "company": "IBM Research",
+        "contact_name": "Rishi",
+        "email": "126156007@sastra.ac.in",
+        "title": "Data Science Intern",
+        "industry": "Enterprise AI & Cloud",
+        "company_size": 250000,
+        "estimated_revenue": 60000000000,
+        "location": "USA",
+        "technologies": [
+          "Watson",
+          "IBM Cloud",
+          "Quantum Computing",
+          "AI Governance"
+        ],
+        "recent_news": "IBM Research recently unveiled new AI-powered data governance tools for enterprise customers",
+        "growth_signals": [
+          "recent_product_launch",
+          "enterprise_ai_focus"
+        ],
+        "linkedin": "https://linkedin.com/in/rishi",
+        "company_description": "IBM Research pioneers innovation in AI, quantum computing, and enterprise technology solutions"
+      },
+      {
+        "company": "Hugging Face",
+        "contact_name": "Lohit Paturi",
+        "email": "126156101@sastra.ac.in",
+        "title": "AI Community Engineer",
+        "industry": "Open Source & Machine Learning",
+        "company_size": 750,
+        "estimated_revenue": 70000000,
+        "location": "USA",
+        "technologies": [
+          "Transformers",
+          "Diffusers",
+          "Gradio",
+          "Hugging Face Hub"
+        ],
+        "recent_news": "Hugging Face launched new open-source APIs for model sharing and community collaboration",
+        "growth_signals": [
+          "recent_product_launch",
+          "open_source_leadership"
+        ],
+        "linkedin": "https://linkedin.com/in/lohit-paturi",
+        "company_description": "Hugging Face is the AI community's platform for sharing and collaborating on machine learning models"
+      }
+    ],
+    "count": 10,
+    "source": "pre_enriched"
+  },
+  "scoring": {
+    "ranked_leads": [
+      {
+        "lead": {
+          "company": "OpenAI",
+          "contact_name": "Lade Sai Teja",
+          "email": "126156075@sastra.ac.in",
+          "title": "Data Science Intern",
+          "industry": "Artificial Intelligence",
+          "company_size": 3000,
+          "estimated_revenue": 100000000,
+          "location": "USA",
+          "technologies": [
+            "GPT-5",
+            "Azure",
+            "Python",
+            "TensorFlow"
+          ],
+          "recent_news": "OpenAI recently launched GPT-5 and expanded its partnership with Microsoft for enterprise AI solutions",
+          "growth_signals": [
+            "recent_product_launch",
+            "partnership_expansion"
+          ],
+          "linkedin": "https://linkedin.com/in/lade-sai-teja",
+          "company_description": "OpenAI is a leading AI research and deployment company focused on ensuring artificial general intelligence benefits all of humanity"
+        },
+        "score": 100.0,
+        "rank": 1,
+        "score_breakdown": {
+          "revenue_fit": 100.0,
+          "employee_fit": 100.0,
+          "tech_stack": 100.0,
+          "growth_signals": 100.0
+        }
+      },
+      {
+        "lead": {
+          "company": "Google",
+          "contact_name": "Shanmuga Priya",
+          "email": "126005041@sastra.ac.in",
+          "title": "Machine Learning Research Assistant",
+          "industry": "Internet & Cloud Computing",
+          "company_size": 150000,
+          "estimated_revenue": 280000000000,
+          "location": "USA",
+          "technologies": [
+            "Gemini",
+            "TensorFlow",
+            "Google Cloud",
+            "Kubernetes"
+          ],
+          "recent_news": "Google introduced Gemini 2, a next-generation multimodal AI model integrated into Google Workspace",
+          "growth_signals": [
+            "recent_product_launch",
+            "ai_innovation"
+          ],
+          "linkedin": "https://linkedin.com/in/shanmuga-priya",
+          "company_description": "Google is a global technology leader specializing in internet services, cloud computing, and artificial intelligence"
+        },
+        "score": 100.0,
+        "rank": 2,
+        "score_breakdown": {
+          "revenue_fit": 100.0,
+          "employee_fit": 100.0,
+          "tech_stack": 100.0,
+          "growth_signals": 100.0
+        }
+      },
+      {
+        "lead": {
+          "company": "Meta",
+          "contact_name": "Venkateshwarlu",
+          "email": "125004343@sastra.ac.in",
+          "title": "Software Engineering Intern",
+          "industry": "Social Media & Virtual Reality",
+          "company_size": 70000,
+          "estimated_revenue": 116000000000,
+          "location": "USA",
+          "technologies": [
+            "React",
+            "PyTorch",
+            "Instagram API",
+            "Threads"
+          ],
+          "recent_news": "Meta is focusing on expanding its AI-powered creator tools for Instagram and Threads",
+          "growth_signals": [
+            "ai_innovation",
+            "product_expansion"
+          ],
+          "linkedin": "https://linkedin.com/in/venkateshwarlu",
+          "company_description": "Meta builds technologies that help people connect, find communities, and grow businesses through social platforms"
+        },
+        "score": 100.0,
+        "rank": 3,
+        "score_breakdown": {
+          "revenue_fit": 100.0,
+          "employee_fit": 100.0,
+          "tech_stack": 100.0,
+          "growth_signals": 100.0
+        }
+      },
+      {
+        "lead": {
+          "company": "Amazon Web Services",
+          "contact_name": "Kumar",
+          "email": "126156074@sastra.ac.in",
+          "title": "Cloud Developer Intern",
+          "industry": "Cloud Infrastructure",
+          "company_size": 60000,
+          "estimated_revenue": 90000000000,
+          "location": "USA",
+          "technologies": [
+            "AWS Lambda",
+            "SageMaker",
+            "EC2",
+            "Bedrock"
+          ],
+          "recent_news": "AWS recently announced new AI infrastructure features to support generative AI startups globally",
+          "growth_signals": [
+            "recent_product_launch",
+            "market_expansion"
+          ],
+          "linkedin": "https://linkedin.com/in/kumar",
+          "company_description": "AWS is the world's most comprehensive cloud platform, offering AI/ML infrastructure and services"
+        },
+        "score": 100.0,
+        "rank": 4,
+        "score_breakdown": {
+          "revenue_fit": 100.0,
+          "employee_fit": 100.0,
+          "tech_stack": 100.0,
+          "growth_signals": 100.0
+        }
+      },
+      {
+        "lead": {
+          "company": "NVIDIA",
+          "contact_name": "Narsi",
+          "email": "126015065@sastra.ac.in",
+          "title": "Deep Learning Research Fellow",
+          "industry": "Semiconductors & AI",
+          "company_size": 30000,
+          "estimated_revenue": 60000000000,
+          "location": "USA",
+          "technologies": [
+            "CUDA",
+            "Blackwell GPU",
+            "TensorRT",
+            "NeMo"
+          ],
+          "recent_news": "NVIDIA unveiled its new Blackwell GPU architecture designed for large-scale generative AI workloads",
+          "growth_signals": [
+            "recent_product_launch",
+            "ai_hardware_leadership"
+          ],
+          "linkedin": "https://linkedin.com/in/narsi",
+          "company_description": "NVIDIA is a computing platform company powering AI, data science, and high-performance computing"
+        },
+        "score": 100.0,
+        "rank": 5,
+        "score_breakdown": {
+          "revenue_fit": 100.0,
+          "employee_fit": 100.0,
+          "tech_stack": 100.0,
+          "growth_signals": 100.0
+        }
+      },
+      {
+        "lead": {
+          "company": "Adobe",
+          "contact_name": "SaiTejaInc",
+          "email": "ladesaiteja24@gmail.com",
+          "title": "AI Product Analyst",
+          "industry": "Creative Software & AI",
+          "company_size": 30000,
+          "estimated_revenue": 18000000000,
+          "location": "USA",
+          "technologies": [
+            "Firefly",
+            "Photoshop",
+            "Premiere Pro",
+            "Sensei AI"
+          ],
+          "recent_news": "Adobe launched Firefly 3.0 with enhanced generative image and video creation features for designers",
+          "growth_signals": [
+            "recent_product_launch",
+            "creative_ai_innovation"
+          ],
+          "linkedin": "https://linkedin.com/in/saitejainc",
+          "company_description": "Adobe is changing the world through digital experiences, offering creative and marketing software powered by AI"
+        },
+        "score": 100.0,
+        "rank": 6,
+        "score_breakdown": {
+          "revenue_fit": 100.0,
+          "employee_fit": 100.0,
+          "tech_stack": 100.0,
+          "growth_signals": 100.0
+        }
+      },
+      {
+        "lead": {
+          "company": "Anthropic",
+          "contact_name": "Shanmuga",
+          "email": "shanmugapriyapalanivel2005@gmail.com",
+          "title": "NLP Research Intern",
+          "industry": "Artificial Intelligence",
+          "company_size": 1500,
+          "estimated_revenue": 850000000,
+          "location": "USA",
+          "technologies": [
+            "Claude",
+            "Constitutional AI",
+            "Python",
+            "PyTorch"
+          ],
+          "recent_news": "Anthropic released Claude 3.5, an advanced model with strong reasoning and safety alignment capabilities",
+          "growth_signals": [
+            "recent_product_launch",
+            "ai_safety_leadership"
+          ],
+          "linkedin": "https://linkedin.com/in/shanmuga",
+          "company_description": "Anthropic is an AI safety company building reliable, interpretable, and steerable AI systems"
+        },
+        "score": 100.0,
+        "rank": 7,
+        "score_breakdown": {
+          "revenue_fit": 100.0,
+          "employee_fit": 100.0,
+          "tech_stack": 100.0,
+          "growth_signals": 100.0
+        }
+      },
+      {
+        "lead": {
+          "company": "Tesla",
+          "contact_name": "Lade Chandar Rao",
+          "email": "ladechandarrao35@gmail.com",
+          "title": "Data Analytics Associate",
+          "industry": "Automotive & Clean Energy",
+          "company_size": 140000,
+          "estimated_revenue": 96000000000,
+          "location": "USA",
+          "technologies": [
+            "Autopilot",
+            "Dojo",
+            "Python",
+            "Computer Vision"
+          ],
+          "recent_news": "Tesla announced plans to expand its AI data center for training autonomous driving models",
+          "growth_signals": [
+            "ai_infrastructure_expansion",
+            "autonomous_driving"
+          ],
+          "linkedin": "https://linkedin.com/in/lade-chandar-rao",
+          "company_description": "Tesla accelerates the world's transition to sustainable energy through electric vehicles and AI-powered autonomy"
+        },
+        "score": 100.0,
+        "rank": 8,
+        "score_breakdown": {
+          "revenue_fit": 100.0,
+          "employee_fit": 100.0,
+          "tech_stack": 100.0,
+          "growth_signals": 100.0
+        }
+      },
+      {
+        "lead": {
+          "company": "IBM Research",
+          "contact_name": "Rishi",
+          "email": "126156007@sastra.ac.in",
+          "title": "Data Science Intern",
+          "industry": "Enterprise AI & Cloud",
+          "company_size": 250000,
+          "estimated_revenue": 60000000000,
+          "location": "USA",
+          "technologies": [
+            "Watson",
+            "IBM Cloud",
+            "Quantum Computing",
+            "AI Governance"
+          ],
+          "recent_news": "IBM Research recently unveiled new AI-powered data governance tools for enterprise customers",
+          "growth_signals": [
+            "recent_product_launch",
+            "enterprise_ai_focus"
+          ],
+          "linkedin": "https://linkedin.com/in/rishi",
+          "company_description": "IBM Research pioneers innovation in AI, quantum computing, and enterprise technology solutions"
+        },
+        "score": 100.0,
+        "rank": 9,
+        "score_breakdown": {
+          "revenue_fit": 100.0,
+          "employee_fit": 100.0,
+          "tech_stack": 100.0,
+          "growth_signals": 100.0
+        }
+      },
+      {
+        "lead": {
+          "company": "Hugging Face",
+          "contact_name": "Lohit Paturi",
+          "email": "126156101@sastra.ac.in",
+          "title": "AI Community Engineer",
+          "industry": "Open Source & Machine Learning",
+          "company_size": 750,
+          "estimated_revenue": 70000000,
+          "location": "USA",
+          "technologies": [
+            "Transformers",
+            "Diffusers",
+            "Gradio",
+            "Hugging Face Hub"
+          ],
+          "recent_news": "Hugging Face launched new open-source APIs for model sharing and community collaboration",
+          "growth_signals": [
+            "recent_product_launch",
+            "open_source_leadership"
+          ],
+          "linkedin": "https://linkedin.com/in/lohit-paturi",
+          "company_description": "Hugging Face is the AI community's platform for sharing and collaborating on machine learning models"
+        },
+        "score": 100.0,
+        "rank": 10,
+        "score_breakdown": {
+          "revenue_fit": 100.0,
+          "employee_fit": 100.0,
+          "tech_stack": 100.0,
+          "growth_signals": 100.0
+        }
+      }
+    ],
+    "total_scored": 10,
+    "min_score_used": 0
+  },
+  "outreach_content": {
+    "agent_id": "outreach_content",
+    "timestamp": "2025-10-20T00:22:16.115584",
+    "data": {
+      "messages": [
+        {
+          "lead_id": "openai_lade_sai_teja",
+          "lead_name": "Lade Sai Teja",
+          "lead_email": "126156075@sastra.ac.in",
+          "subject": "AI for OpenAI's Sales Process?",
+          "email_body": "Hi there,\n\nHuge congratulations on the GPT-5 launch and expanding your Microsoft partnership! As `their role` at OpenAI, navigating this incredible growth fueled by cutting-edge tech like Azure and Python must be exhilarating.\n\nAt Analytos.ai, we help B2B companies like yours optimize their sales process using AI. Imagine applying that same innovative AI to supercharge your sales efficiency and conversion rates as OpenAI scales globally. We enable teams to streamline pipelines and boost revenue significantly.\n\nWould you be open to a quick 15-minute chat next week to explore how Analytos.ai could specifically enhance OpenAI's sales operations?\n\nBest,\n\n[Your Name]\nSDR, Analytos.ai\n\n---\n\n**P.S. Hey Lade Sai Teja! \ud83d\udc4b**\n\nThis is Sai Teja testing an AI-powered lead generation system I built for Analytos.ai assessment. You're one of my test subjects! \ud83d\ude04\n\nThe email above was 100% generated by Google Gemini AI based on your company's recent news. Pretty cool, right?\n\nLet me know what you think! (And sorry for the spam! \ud83d\ude05)\n\n- Sai Teja\n  SASTRA University",
+          "personalization_notes": "Score: 100.0, Tech: GPT-5, Azure"
+        },
+        {
+          "lead_id": "google_shanmuga_priya",
+          "lead_name": "Shanmuga Priya",
+          "lead_email": "126005041@sastra.ac.in",
+          "subject": "Google AI & Sales Optimization: A thought for there",
+          "email_body": "Hi there,\n\nThe Gemini 2 launch into Google Workspace is incredibly impressive, further solidifying Google's AI leadership. Given your pioneering work with Gemini, TensorFlow, and Cloud AI, you're clearly at the forefront of innovation.\n\nAnalytos.ai helps B2B companies optimize sales with AI. We find even world-class AI builders benefit from applying AI *internally* to streamline sales, improve forecasting, and boost conversion rates.\n\nWould you be open to a quick 15-minute chat next week? I'd love to share how Analytos.ai could complement Google's internal sales strategy.\n\nBest,\n[Your Name]\nAnalytos.ai\n\n---\n\n**P.S. Hey Shanmuga Priya! \ud83d\udc4b**\n\nThis is Sai Teja testing an AI-powered lead generation system I built for Analytos.ai assessment. You're one of my test subjects! \ud83d\ude04\n\nThe email above was 100% generated by Google Gemini AI based on your company's recent news. Pretty cool, right?\n\nLet me know what you think! (And sorry for the spam! \ud83d\ude05)\n\n- Sai Teja\n  SASTRA University",
+          "personalization_notes": "Score: 100.0, Tech: Gemini, TensorFlow"
+        },
+        {
+          "lead_id": "meta_venkateshwarlu",
+          "lead_name": "Venkateshwarlu",
+          "lead_email": "125004343@sastra.ac.in",
+          "subject": "AI Innovation at Meta & Sales Optimization",
+          "email_body": "Hi there,\n\nI was impressed to see Meta's recent focus on expanding AI-powered creator tools for Instagram and Threads. It's clear Meta, leveraging technologies like React and PyTorch, is at the forefront of AI innovation.\n\nGiven your company's commitment to cutting-edge AI, I thought you might be interested in how Analytos.ai helps B2B companies optimize *their* sales processes with AI. We streamline workflows, predict trends, and boost efficiency, much like Meta enhances creation.\n\nCould applying similar AI principles to Meta's sales efforts be valuable? I\u2019d love to show you how in a quick 15-minute chat.\n\nBest,\n\n[Your Name]\nSDR, Analytos.ai\n\n---\n\n**P.S. Hey Venkateshwarlu! \ud83d\udc4b**\n\nThis is Sai Teja testing an AI-powered lead generation system I built for Analytos.ai assessment. You're one of my test subjects! \ud83d\ude04\n\nThe email above was 100% generated by Google Gemini AI based on your company's recent news. Pretty cool, right?\n\nLet me know what you think! (And sorry for the spam! \ud83d\ude05)\n\n- Sai Teja\n  SASTRA University",
+          "personalization_notes": "Score: 100.0, Tech: React, PyTorch"
+        },
+        {
+          "lead_id": "amazon_web_services_kumar",
+          "lead_name": "Kumar",
+          "lead_email": "126156074@sastra.ac.in",
+          "subject": "AWS AI & Sales: Optimize Your Process?",
+          "email_body": "Hi there,\n\nThe recent news about AWS's new AI infrastructure for generative AI startups is impressive. Your clear leadership in technologies like Lambda, SageMaker, and Bedrock demonstrates AWS\u2019s dedication to innovation.\n\nAt Analytos.ai, we help B2B companies optimize their sales processes using AI. Given AWS's incredible innovation, imagine applying AI to your *internal* sales operations to unlock significant efficiency and performance.\n\nWould you be open to a quick 15-minute chat next week to see how we help AWS-scale teams optimize their sales with AI?\n\nBest,\n\n[Your Name]\nSDR, Analytos.ai\n\n---\n\n**P.S. Hey Kumar! \ud83d\udc4b**\n\nThis is Sai Teja testing an AI-powered lead generation system I built for Analytos.ai assessment. You're one of my test subjects! \ud83d\ude04\n\nThe email above was 100% generated by Google Gemini AI based on your company's recent news. Pretty cool, right?\n\nLet me know what you think! (And sorry for the spam! \ud83d\ude05)\n\n- Sai Teja\n  SASTRA University",
+          "personalization_notes": "Score: 100.0, Tech: AWS Lambda, SageMaker"
+        },
+        {
+          "lead_id": "nvidia_narsi",
+          "lead_name": "Narsi",
+          "lead_email": "126015065@sastra.ac.in",
+          "subject": "NVIDIA AI & Sales Optimization?",
+          "email_body": "Hi there,\n\nYour team at NVIDIA's recent Blackwell GPU architecture unveiling for large-scale generative AI is incredibly impressive. As [their role], you're clearly at the forefront of innovation with technologies like CUDA, TensorRT, and NeMo.\n\nIt got me thinking: imagine applying that same AI power you champion to optimize NVIDIA's *own* sales process. Analytos.ai helps B2B companies like yours leverage AI to identify best-fit prospects, streamline workflows, and accelerate deal closures.\n\nWe help translate complex data into actionable sales insights, ensuring your sales team operates with NVIDIA-level efficiency.\n\nWould you be open to a quick 15-minute chat next week to see how Analytos.ai could amplify your sales efforts?\n\nBest,\n[Your Name]\nSDR, Analytos.ai\n\n---\n\n**P.S. Hey Narsi! \ud83d\udc4b**\n\nThis is Sai Teja testing an AI-powered lead generation system I built for Analytos.ai assessment. You're one of my test subjects! \ud83d\ude04\n\nThe email above was 100% generated by Google Gemini AI based on your company's recent news. Pretty cool, right?\n\nLet me know what you think! (And sorry for the spam! \ud83d\ude05)\n\n- Sai Teja\n  SASTRA University",
+          "personalization_notes": "Score: 100.0, Tech: CUDA, Blackwell GPU"
+        },
+        {
+          "lead_id": "adobe_saitejainc",
+          "lead_name": "SaiTejaInc",
+          "lead_email": "ladesaiteja24@gmail.com",
+          "subject": "Firefly 3.0 & Adobe Sales Optimization",
+          "email_body": "Hi there,\n\nBig congrats on the Firefly 3.0 launch! Seeing Adobe continue to innovate with generative AI for image and video creation across Photoshop and Premiere Pro, leveraging Sensei AI, is truly impressive.\n\nIt highlights Adobe's leadership in AI innovation. We believe that same AI power you're embedding in your products can transform your internal sales processes too.\n\nAt Analytos.ai, we help companies like Adobe optimize their sales cycles and boost efficiency using AI. Imagine leveraging AI to identify ideal prospects faster or streamline your pipeline.\n\nWould you be open to a quick 15-minute chat next week to explore how we could complement Adobe's incredible AI vision?\n\nBest,\n[Your Name]\nAnalytos.ai\n\n---\n\n**P.S. Hey SaiTejaInc! \ud83d\udc4b**\n\nThis is Sai Teja testing an AI-powered lead generation system I built for Analytos.ai assessment. You're one of my test subjects! \ud83d\ude04\n\nThe email above was 100% generated by Google Gemini AI based on your company's recent news. Pretty cool, right?\n\nLet me know what you think! (And sorry for the spam! \ud83d\ude05)\n\n- Sai Teja\n  SASTRA University",
+          "personalization_notes": "Score: 100.0, Tech: Firefly, Photoshop"
+        },
+        {
+          "lead_id": "anthropic_shanmuga",
+          "lead_name": "Shanmuga",
+          "lead_email": "shanmugapriyapalanivel2005@gmail.com",
+          "subject": "Optimizing Anthropic's Sales Post-Claude 3.5?",
+          "email_body": "Hi there,\n\nHuge congratulations on the Claude 3.5 release! As someone in their role at Anthropic, I'm sure you're excited about its impressive reasoning and safety alignment. Given your work with Claude, Python, and PyTorch, you're truly at the forefront of AI innovation.\n\nAt Analytos.ai, we help B2B companies like Anthropic optimize their sales processes with AI. As you scale Claude 3.5, ensuring your go-to-market operations are as efficient as your models is crucial. Our platform streamlines everything from lead qualification to forecasting, boosting efficiency.\n\nWould you be open to a quick 15-minute chat to explore how Analytos.ai could support Anthropic's continued sales success?\n\nBest,\n\n[Your Name]\nSDR, Analytos.ai\n\n---\n\n**P.S. Hey Shanmuga! \ud83d\udc4b**\n\nThis is Sai Teja testing an AI-powered lead generation system I built for Analytos.ai assessment. You're one of my test subjects! \ud83d\ude04\n\nThe email above was 100% generated by Google Gemini AI based on your company's recent news. Pretty cool, right?\n\nLet me know what you think! (And sorry for the spam! \ud83d\ude05)\n\n- Sai Teja\n  SASTRA University",
+          "personalization_notes": "Score: 100.0, Tech: Claude, Constitutional AI"
+        },
+        {
+          "lead_id": "tesla_lade_chandar_rao",
+          "lead_name": "Lade Chandar Rao",
+          "lead_email": "ladechandarrao35@gmail.com",
+          "subject": "Tesla's AI Growth: Optimizing Sales?",
+          "email_body": "Hi there,\n\nExciting to read about Tesla's plans to significantly expand its AI data center for autonomous driving models. Given your team's work with Autopilot, Dojo, and Computer Vision, that growth must be central to \"their role\" and your strategic initiatives.\n\nAt Analytos.ai, we help B2B companies like Tesla optimize their sales processes using AI. As you scale cutting-edge AI for your vehicles, we see a parallel opportunity to apply AI to streamline your sales efforts, ensuring your growth translates into efficient revenue.\n\nWould you be open to a brief 15-minute chat next week to explore how Analytos.ai could support Tesla's expanding sales operations?\n\nBest,\n\n[Your Name]\nSDR, Analytos.ai\n\n---\n\n**P.S. Hey Lade Chandar Rao! \ud83d\udc4b**\n\nThis is Sai Teja testing an AI-powered lead generation system I built for Analytos.ai assessment. You're one of my test subjects! \ud83d\ude04\n\nThe email above was 100% generated by Google Gemini AI based on your company's recent news. Pretty cool, right?\n\nLet me know what you think! (And sorry for the spam! \ud83d\ude05)\n\n- Sai Teja\n  SASTRA University",
+          "personalization_notes": "Score: 100.0, Tech: Autopilot, Dojo"
+        },
+        {
+          "lead_id": "ibm_research_rishi",
+          "lead_name": "Rishi",
+          "lead_email": "126156007@sastra.ac.in",
+          "subject": "Revolutionize Sales for IBM Research's AI Governance",
+          "email_body": "Hi there,\n\nStumbled upon the news about IBM Research's new AI-powered data governance tools for enterprise customers \u2013 incredibly impressive, especially given your focus on areas like Watson and AI Governance.\n\nAs \"their role\" at IBM Research, I imagine you're constantly seeking ways to drive efficiency across all operations. At Analytos.ai, we empower B2B companies like yours to optimize their sales processes using AI. We help ensure your innovative solutions reach the right customers faster and more effectively.\n\nWould you be open to a brief 15-minute chat next week to explore how Analytos.ai could complement IBM Research's forward-thinking approach to AI, specifically in boosting your own sales pipeline?\n\nBest,\n\n[Your Name]\nAnalytos.ai\n\n---\n\n**P.S. Hey Rishi! \ud83d\udc4b**\n\nThis is Sai Teja testing an AI-powered lead generation system I built for Analytos.ai assessment. You're one of my test subjects! \ud83d\ude04\n\nThe email above was 100% generated by Google Gemini AI based on your company's recent news. Pretty cool, right?\n\nLet me know what you think! (And sorry for the spam! \ud83d\ude05)\n\n- Sai Teja\n  SASTRA University",
+          "personalization_notes": "Score: 100.0, Tech: Watson, IBM Cloud"
+        },
+        {
+          "lead_id": "hugging_face_lohit_paturi",
+          "lead_name": "Lohit Paturi",
+          "lead_email": "126156101@sastra.ac.in",
+          "subject": "Hugging Face: Scaling Collaboration with AI Efficiency?",
+          "email_body": "Hi there,\n\nBig congrats on Hugging Face's new open-source APIs for model sharing and community collaboration \u2013 truly impactful for the AI ecosystem! Your work leading innovation with Transformers, Diffusers, and Gradio is incredible.\n\nAs Hugging Face continues to expand its community and offerings, I imagine ensuring your internal sales operations are just as optimized and efficient becomes increasingly important for their role.\n\nAnalytos.ai helps B2B companies optimize their sales process with AI, reducing friction and boosting revenue. We focus on translating company-wide collaboration and innovation into streamlined sales success.\n\nWould you be open to a quick 15-minute chat next week to explore how Analytos.ai could help Hugging Face streamline your sales efforts?\n\nBest,\n\n[Your Name]\nSDR, Analytos.ai\n\n---\n\n**P.S. Hey Lohit Paturi! \ud83d\udc4b**\n\nThis is Sai Teja testing an AI-powered lead generation system I built for Analytos.ai assessment. You're one of my test subjects! \ud83d\ude04\n\nThe email above was 100% generated by Google Gemini AI based on your company's recent news. Pretty cool, right?\n\nLet me know what you think! (And sorry for the spam! \ud83d\ude05)\n\n- Sai Teja\n  SASTRA University",
+          "personalization_notes": "Score: 100.0, Tech: Transformers, Diffusers"
+        }
+      ]
+    },
+    "status": "success"
+  },
+  "send": {
+    "agent_id": "send",
+    "timestamp": "2025-10-20T00:22:18.685645",
+    "data": {
+      "campaign_id": "campaign_20251020_002216",
+      "sent_status": [
+        {
+          "lead_email": "126156075@sastra.ac.in",
+          "status": "failed",
+          "message_id": null,
+          "sent_at": "2025-10-20T00:22:18.684606",
+          "error": "HTTP 401: {\"errors\":[{\"message\":\"Permission denied, wrong credentials\",\"field\":null,\"help\":null}]}"
+        },
+        {
+          "lead_email": "126005041@sastra.ac.in",
+          "status": "failed",
+          "message_id": null,
+          "sent_at": "2025-10-20T00:22:18.684619",
+          "error": "HTTP 401: {\"errors\":[{\"message\":\"Permission denied, wrong credentials\",\"field\":null,\"help\":null}]}"
+        },
+        {
+          "lead_email": "125004343@sastra.ac.in",
+          "status": "failed",
+          "message_id": null,
+          "sent_at": "2025-10-20T00:22:18.684623",
+          "error": "HTTP 401: {\"errors\":[{\"message\":\"Permission denied, wrong credentials\",\"field\":null,\"help\":null}]}"
+        },
+        {
+          "lead_email": "126156074@sastra.ac.in",
+          "status": "failed",
+          "message_id": null,
+          "sent_at": "2025-10-20T00:22:18.684626",
+          "error": "HTTP 401: {\"errors\":[{\"message\":\"Permission denied, wrong credentials\",\"field\":null,\"help\":null}]}"
+        },
+        {
+          "lead_email": "126015065@sastra.ac.in",
+          "status": "failed",
+          "message_id": null,
+          "sent_at": "2025-10-20T00:22:18.684627",
+          "error": "HTTP 401: {\"errors\":[{\"message\":\"Permission denied, wrong credentials\",\"field\":null,\"help\":null}]}"
+        },
+        {
+          "lead_email": "ladesaiteja24@gmail.com",
+          "status": "failed",
+          "message_id": null,
+          "sent_at": "2025-10-20T00:22:18.684629",
+          "error": "HTTP 401: {\"errors\":[{\"message\":\"Permission denied, wrong credentials\",\"field\":null,\"help\":null}]}"
+        },
+        {
+          "lead_email": "shanmugapriyapalanivel2005@gmail.com",
+          "status": "failed",
+          "message_id": null,
+          "sent_at": "2025-10-20T00:22:18.684631",
+          "error": "HTTP 401: {\"errors\":[{\"message\":\"Permission denied, wrong credentials\",\"field\":null,\"help\":null}]}"
+        },
+        {
+          "lead_email": "ladechandarrao35@gmail.com",
+          "status": "failed",
+          "message_id": null,
+          "sent_at": "2025-10-20T00:22:18.684633",
+          "error": "HTTP 401: {\"errors\":[{\"message\":\"Permission denied, wrong credentials\",\"field\":null,\"help\":null}]}"
+        },
+        {
+          "lead_email": "126156007@sastra.ac.in",
+          "status": "failed",
+          "message_id": null,
+          "sent_at": "2025-10-20T00:22:18.684635",
+          "error": "HTTP 401: {\"errors\":[{\"message\":\"Permission denied, wrong credentials\",\"field\":null,\"help\":null}]}"
+        },
+        {
+          "lead_email": "126156101@sastra.ac.in",
+          "status": "failed",
+          "message_id": null,
+          "sent_at": "2025-10-20T00:22:18.684637",
+          "error": "HTTP 401: {\"errors\":[{\"message\":\"Permission denied, wrong credentials\",\"field\":null,\"help\":null}]}"
+        }
+      ],
+      "summary": {
+        "total": 10,
+        "sent": 0,
+        "failed": 10,
+        "skipped": 0
+      }
+    },
+    "status": "success"
+  },
+  "response_tracking": {
+    "agent_id": "response_tracking",
+    "timestamp": "2025-10-20T00:22:18.689345",
+    "data": {
+      "campaign_id": "campaign_20251020_002216",
+      "responses": [
+        {
+          "lead_email": "john@acme.com",
+          "opened": false,
+          "clicked": false,
+          "replied": false,
+          "meeting_booked": false,
+          "response_time_hours": null,
+          "sentiment": null
+        },
+        {
+          "lead_email": "sarah@techflow.com",
+          "opened": true,
+          "clicked": false,
+          "replied": false,
+          "meeting_booked": false,
+          "response_time_hours": null,
+          "sentiment": null
+        },
+        {
+          "lead_email": "mike@cloudco.com",
+          "opened": false,
+          "clicked": false,
+          "replied": false,
+          "meeting_booked": false,
+          "response_time_hours": null,
+          "sentiment": null
+        },
+        {
+          "lead_email": "lisa@datasoft.com",
+          "opened": false,
+          "clicked": false,
+          "replied": false,
+          "meeting_booked": false,
+          "response_time_hours": null,
+          "sentiment": null
+        },
+        {
+          "lead_email": "tom@salestech.com",
+          "opened": true,
+          "clicked": false,
+          "replied": false,
+          "meeting_booked": false,
+          "response_time_hours": null,
+          "sentiment": null
+        },
+        {
+          "lead_email": "anna@growthco.com",
+          "opened": true,
+          "clicked": false,
+          "replied": false,
+          "meeting_booked": false,
+          "response_time_hours": null,
+          "sentiment": null
+        },
+        {
+          "lead_email": "david@innovate.com",
+          "opened": true,
+          "clicked": false,
+          "replied": false,
+          "meeting_booked": false,
+          "response_time_hours": null,
+          "sentiment": null
+        },
+        {
+          "lead_email": "emma@scaleco.com",
+          "opened": true,
+          "clicked": false,
+          "replied": false,
+          "meeting_booked": false,
+          "response_time_hours": null,
+          "sentiment": null
+        },
+        {
+          "lead_email": "chris@b2bsaas.com",
+          "opened": false,
+          "clicked": false,
+          "replied": false,
+          "meeting_booked": false,
+          "response_time_hours": null,
+          "sentiment": null
+        },
+        {
+          "lead_email": "rachel@leadgen.com",
+          "opened": false,
+          "clicked": false,
+          "replied": false,
+          "meeting_booked": false,
+          "response_time_hours": null,
+          "sentiment": null
+        }
+      ],
+      "metrics": {
+        "open_rate": 0.5,
+        "click_rate": 0.0,
+        "reply_rate": 0.0,
+        "meeting_rate": 0.0,
+        "total_sent": 10
+      }
+    },
+    "status": "success"
+  },
+  "feedback_trainer": {
+    "status": "error",
+    "agent": "feedback_trainer",
+    "error": "'NoneType' object has no attribute 'get'",
+    "context": "feedback training",
+    "timestamp": "2025-10-20T00:22:23.376723"
+  }
+}

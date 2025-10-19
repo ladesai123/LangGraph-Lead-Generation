@@ -1,0 +1,400 @@
+{
+  "prospect_search": {
+    "leads": [
+      {
+        "company": "Acme SaaS Inc",
+        "contact_name": "John Smith",
+        "email": "john.smith@example.com",
+        "linkedin": "https://linkedin.com/in/john-smith",
+        "title": "VP Sales",
+        "signal": "recent_funding",
+        "company_size": 100,
+        "estimated_revenue": 0
+      },
+      {
+        "company": "TechFlow Solutions",
+        "contact_name": "John Smith",
+        "email": "john.smith@example.com",
+        "linkedin": "https://linkedin.com/in/john-smith",
+        "title": "VP Sales",
+        "signal": "recent_funding",
+        "company_size": 150,
+        "estimated_revenue": 0
+      },
+      {
+        "company": "DataDrive Corp",
+        "contact_name": "John Smith",
+        "email": "john.smith@example.com",
+        "linkedin": "https://linkedin.com/in/john-smith",
+        "title": "VP Sales",
+        "signal": "recent_funding",
+        "company_size": 200,
+        "estimated_revenue": 0
+      },
+      {
+        "company": "CloudSync Systems",
+        "contact_name": "John Smith",
+        "email": "john.smith@example.com",
+        "linkedin": "https://linkedin.com/in/john-smith",
+        "title": "VP Sales",
+        "signal": "recent_funding",
+        "company_size": 250,
+        "estimated_revenue": 0
+      },
+      {
+        "company": "InnovateTech LLC",
+        "contact_name": "John Smith",
+        "email": "john.smith@example.com",
+        "linkedin": "https://linkedin.com/in/john-smith",
+        "title": "VP Sales",
+        "signal": "recent_funding",
+        "company_size": 300,
+        "estimated_revenue": 0
+      },
+      {
+        "company": "ScaleUp Software",
+        "contact_name": "John Smith",
+        "email": "john.smith@example.com",
+        "linkedin": "https://linkedin.com/in/john-smith",
+        "title": "VP Sales",
+        "signal": "recent_funding",
+        "company_size": 350,
+        "estimated_revenue": 0
+      },
+      {
+        "company": "FinTech Dynamics",
+        "contact_name": "John Smith",
+        "email": "john.smith@example.com",
+        "linkedin": "https://linkedin.com/in/john-smith",
+        "title": "VP Sales",
+        "signal": "recent_funding",
+        "company_size": 400,
+        "estimated_revenue": 0
+      },
+      {
+        "company": "SmartOps Platform",
+        "contact_name": "John Smith",
+        "email": "john.smith@example.com",
+        "linkedin": "https://linkedin.com/in/john-smith",
+        "title": "VP Sales",
+        "signal": "recent_funding",
+        "company_size": 450,
+        "estimated_revenue": 0
+      },
+      {
+        "company": "GrowthStack Inc",
+        "contact_name": "John Smith",
+        "email": "john.smith@example.com",
+        "linkedin": "https://linkedin.com/in/john-smith",
+        "title": "VP Sales",
+        "signal": "recent_funding",
+        "company_size": 500,
+        "estimated_revenue": 0
+      },
+      {
+        "company": "SalesBoost Technologies",
+        "contact_name": "John Smith",
+        "email": "john.smith@example.com",
+        "linkedin": "https://linkedin.com/in/john-smith",
+        "title": "VP Sales",
+        "signal": "recent_funding",
+        "company_size": 550,
+        "estimated_revenue": 0
+      }
+    ]
+  },
+  "enrichment": {
+    "enriched_leads": [
+      {
+        "company": "Acme SaaS Inc",
+        "contact": "John Smith",
+        "email": "john.smith@example.com",
+        "role": "sales",
+        "technologies": [
+          "Salesforce",
+          "AWS",
+          "React",
+          "PostgreSQL"
+        ],
+        "company_description": "Example is a leading SaaS company providing innovative solutions.",
+        "recent_news": "Growing company with 250 employees",
+        "linkedin_url": "https://linkedin.com/in/john-smith",
+        "email_verified": true
+      },
+      {
+        "company": "TechFlow Solutions",
+        "contact": "John Smith",
+        "email": "john.smith@example.com",
+        "role": "sales",
+        "technologies": [
+          "Salesforce",
+          "AWS",
+          "React",
+          "PostgreSQL"
+        ],
+        "company_description": "Example is a leading SaaS company providing innovative solutions.",
+        "recent_news": "Growing company with 250 employees",
+        "linkedin_url": "https://linkedin.com/in/john-smith",
+        "email_verified": true
+      },
+      {
+        "company": "DataDrive Corp",
+        "contact": "John Smith",
+        "email": "john.smith@example.com",
+        "role": "sales",
+        "technologies": [
+          "Salesforce",
+          "AWS",
+          "React",
+          "PostgreSQL"
+        ],
+        "company_description": "Example is a leading SaaS company providing innovative solutions.",
+        "recent_news": "Growing company with 250 employees",
+        "linkedin_url": "https://linkedin.com/in/john-smith",
+        "email_verified": true
+      },
+      {
+        "company": "CloudSync Systems",
+        "contact": "John Smith",
+        "email": "john.smith@example.com",
+        "role": "sales",
+        "technologies": [
+          "Salesforce",
+          "AWS",
+          "React",
+          "PostgreSQL"
+        ],
+        "company_description": "Example is a leading SaaS company providing innovative solutions.",
+        "recent_news": "Growing company with 250 employees",
+        "linkedin_url": "https://linkedin.com/in/john-smith",
+        "email_verified": true
+      },
+      {
+        "company": "InnovateTech LLC",
+        "contact": "John Smith",
+        "email": "john.smith@example.com",
+        "role": "sales",
+        "technologies": [
+          "Salesforce",
+          "AWS",
+          "React",
+          "PostgreSQL"
+        ],
+        "company_description": "Example is a leading SaaS company providing innovative solutions.",
+        "recent_news": "Growing company with 250 employees",
+        "linkedin_url": "https://linkedin.com/in/john-smith",
+        "email_verified": true
+      },
+      {
+        "company": "ScaleUp Software",
+        "contact": "John Smith",
+        "email": "john.smith@example.com",
+        "role": "sales",
+        "technologies": [
+          "Salesforce",
+          "AWS",
+          "React",
+          "PostgreSQL"
+        ],
+        "company_description": "Example is a leading SaaS company providing innovative solutions.",
+        "recent_news": "Growing company with 250 employees",
+        "linkedin_url": "https://linkedin.com/in/john-smith",
+        "email_verified": true
+      },
+      {
+        "company": "FinTech Dynamics",
+        "contact": "John Smith",
+        "email": "john.smith@example.com",
+        "role": "sales",
+        "technologies": [
+          "Salesforce",
+          "AWS",
+          "React",
+          "PostgreSQL"
+        ],
+        "company_description": "Example is a leading SaaS company providing innovative solutions.",
+        "recent_news": "Growing company with 250 employees",
+        "linkedin_url": "https://linkedin.com/in/john-smith",
+        "email_verified": true
+      },
+      {
+        "company": "SmartOps Platform",
+        "contact": "John Smith",
+        "email": "john.smith@example.com",
+        "role": "sales",
+        "technologies": [
+          "Salesforce",
+          "AWS",
+          "React",
+          "PostgreSQL"
+        ],
+        "company_description": "Example is a leading SaaS company providing innovative solutions.",
+        "recent_news": "Growing company with 250 employees",
+        "linkedin_url": "https://linkedin.com/in/john-smith",
+        "email_verified": true
+      },
+      {
+        "company": "GrowthStack Inc",
+        "contact": "John Smith",
+        "email": "john.smith@example.com",
+        "role": "sales",
+        "technologies": [
+          "Salesforce",
+          "AWS",
+          "React",
+          "PostgreSQL"
+        ],
+        "company_description": "Example is a leading SaaS company providing innovative solutions.",
+        "recent_news": "Growing company with 250 employees",
+        "linkedin_url": "https://linkedin.com/in/john-smith",
+        "email_verified": true
+      },
+      {
+        "company": "SalesBoost Technologies",
+        "contact": "John Smith",
+        "email": "john.smith@example.com",
+        "role": "sales",
+        "technologies": [
+          "Salesforce",
+          "AWS",
+          "React",
+          "PostgreSQL"
+        ],
+        "company_description": "Example is a leading SaaS company providing innovative solutions.",
+        "recent_news": "Growing company with 250 employees",
+        "linkedin_url": "https://linkedin.com/in/john-smith",
+        "email_verified": true
+      }
+    ]
+  },
+  "scoring": {},
+  "outreach_content": {},
+  "send": {},
+  "response_tracking": {
+    "campaign_id": null,
+    "responses": [
+      {
+        "lead_email": "john@acme.com",
+        "opened": false,
+        "clicked": false,
+        "replied": false,
+        "meeting_booked": false,
+        "response_time_hours": null,
+        "sentiment": null
+      },
+      {
+        "lead_email": "sarah@techflow.com",
+        "opened": true,
+        "clicked": true,
+        "replied": false,
+        "meeting_booked": false,
+        "response_time_hours": null,
+        "sentiment": null
+      },
+      {
+        "lead_email": "mike@cloudco.com",
+        "opened": true,
+        "clicked": false,
+        "replied": false,
+        "meeting_booked": false,
+        "response_time_hours": null,
+        "sentiment": null
+      },
+      {
+        "lead_email": "lisa@datasoft.com",
+        "opened": true,
+        "clicked": true,
+        "replied": true,
+        "meeting_booked": true,
+        "response_time_hours": 52.0,
+        "sentiment": "positive"
+      },
+      {
+        "lead_email": "tom@salestech.com",
+        "opened": true,
+        "clicked": false,
+        "replied": false,
+        "meeting_booked": false,
+        "response_time_hours": null,
+        "sentiment": null
+      },
+      {
+        "lead_email": "anna@growthco.com",
+        "opened": false,
+        "clicked": false,
+        "replied": false,
+        "meeting_booked": false,
+        "response_time_hours": null,
+        "sentiment": null
+      },
+      {
+        "lead_email": "david@innovate.com",
+        "opened": true,
+        "clicked": true,
+        "replied": true,
+        "meeting_booked": false,
+        "response_time_hours": 6.9,
+        "sentiment": "positive"
+      },
+      {
+        "lead_email": "emma@scaleco.com",
+        "opened": true,
+        "clicked": true,
+        "replied": false,
+        "meeting_booked": false,
+        "response_time_hours": null,
+        "sentiment": null
+      },
+      {
+        "lead_email": "chris@b2bsaas.com",
+        "opened": false,
+        "clicked": false,
+        "replied": false,
+        "meeting_booked": false,
+        "response_time_hours": null,
+        "sentiment": null
+      },
+      {
+        "lead_email": "rachel@leadgen.com",
+        "opened": true,
+        "clicked": false,
+        "replied": false,
+        "meeting_booked": false,
+        "response_time_hours": null,
+        "sentiment": null
+      }
+    ],
+    "metrics": {
+      "open_rate": 0.7,
+      "click_rate": 0.4,
+      "reply_rate": 0.2,
+      "meeting_rate": 0.1,
+      "total_sent": 10
+    }
+  },
+  "feedback_trainer": {
+    "analysis": {
+      "top_performing_segments": [
+        "Leads with recent funding signal (estimated 20% higher reply rate)"
+      ],
+      "underperforming_segments": [
+        "Leads without verified email (estimated 50% lower delivery)"
+      ],
+      "key_insights": [
+        "Average response time: 29.4 hours",
+        "\u2705 Reply rate exceeds industry average"
+      ]
+    },
+    "recommendations": [
+      {
+        "category": "TIMING",
+        "current_value": "Send anytime",
+        "suggested_value": "Send Tuesday-Thursday, 10 AM-2 PM local time",
+        "rationale": "Industry data shows 40% higher engagement during mid-week mornings.",
+        "expected_impact": "Increase overall engagement by 15-20%",
+        "confidence": 0.75
+      }
+    ],
+    "approval_status": "pending"
+  }
+}

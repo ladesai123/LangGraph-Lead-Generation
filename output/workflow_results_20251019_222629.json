@@ -1,0 +1,110 @@
+{
+  "prospect_search": {},
+  "enrichment": {},
+  "scoring": {},
+  "outreach_content": {},
+  "send": {},
+  "response_tracking": {
+    "campaign_id": null,
+    "responses": [
+      {
+        "lead_email": "john@acme.com",
+        "opened": true,
+        "clicked": false,
+        "replied": false,
+        "meeting_booked": false,
+        "response_time_hours": null,
+        "sentiment": null
+      },
+      {
+        "lead_email": "sarah@techflow.com",
+        "opened": true,
+        "clicked": false,
+        "replied": false,
+        "meeting_booked": false,
+        "response_time_hours": null,
+        "sentiment": null
+      },
+      {
+        "lead_email": "mike@cloudco.com",
+        "opened": false,
+        "clicked": false,
+        "replied": false,
+        "meeting_booked": false,
+        "response_time_hours": null,
+        "sentiment": null
+      },
+      {
+        "lead_email": "lisa@datasoft.com",
+        "opened": true,
+        "clicked": false,
+        "replied": false,
+        "meeting_booked": false,
+        "response_time_hours": null,
+        "sentiment": null
+      },
+      {
+        "lead_email": "tom@salestech.com",
+        "opened": false,
+        "clicked": false,
+        "replied": false,
+        "meeting_booked": false,
+        "response_time_hours": null,
+        "sentiment": null
+      },
+      {
+        "lead_email": "anna@growthco.com",
+        "opened": true,
+        "clicked": false,
+        "replied": false,
+        "meeting_booked": false,
+        "response_time_hours": null,
+        "sentiment": null
+      },
+      {
+        "lead_email": "david@innovate.com",
+        "opened": false,
+        "clicked": false,
+        "replied": false,
+        "meeting_booked": false,
+        "response_time_hours": null,
+        "sentiment": null
+      },
+      {
+        "lead_email": "emma@scaleco.com",
+        "opened": true,
+        "clicked": false,
+        "replied": false,
+        "meeting_booked": false,
+        "response_time_hours": null,
+        "sentiment": null
+      },
+      {
+        "lead_email": "chris@b2bsaas.com",
+        "opened": true,
+        "clicked": false,
+        "replied": false,
+        "meeting_booked": false,
+        "response_time_hours": null,
+        "sentiment": null
+      },
+      {
+        "lead_email": "rachel@leadgen.com",
+        "opened": false,
+        "clicked": false,
+        "replied": false,
+        "meeting_booked": false,
+        "response_time_hours": null,
+        "sentiment": null
+      }
+    ],
+    "metrics": {
+      "open_rate": 0.6,
+      "click_rate": 0.0,
+      "reply_rate": 0.0,
+      "meeting_rate": 0.0,
+      "total_sent": 10
+    }
+  },
+  "feedback_trainer": {}
+}

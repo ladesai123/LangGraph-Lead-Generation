@@ -1,0 +1,198 @@
+{
+  "events": [
+    {
+      "email": "126156075@sastra.ac.in",
+      "timestamp": 1760901994,
+      "event": "delivered",
+      "sg_event_id": "sim_delivered_-6254264012837250338",
+      "sg_message_id": "msg_-6254264012837250338",
+      "received_at": "2025-10-20T00:56:36.257726"
+    },
+    {
+      "email": "126005041@sastra.ac.in",
+      "timestamp": 1760901996,
+      "event": "delivered",
+      "sg_event_id": "sim_delivered_-8097566459807116601",
+      "sg_message_id": "msg_-8097566459807116601",
+      "received_at": "2025-10-20T00:56:38.547687"
+    },
+    {
+      "email": "125004343@sastra.ac.in",
+      "timestamp": 1760901998,
+      "event": "delivered",
+      "sg_event_id": "sim_delivered_-8511087615254609839",
+      "sg_message_id": "msg_-8511087615254609839",
+      "received_at": "2025-10-20T00:56:40.833503"
+    },
+    {
+      "email": "126156074@sastra.ac.in",
+      "timestamp": 1760902001,
+      "event": "delivered",
+      "sg_event_id": "sim_delivered_2152405297883254186",
+      "sg_message_id": "msg_2152405297883254186",
+      "received_at": "2025-10-20T00:56:43.086975"
+    },
+    {
+      "email": "126015065@sastra.ac.in",
+      "timestamp": 1760902003,
+      "event": "delivered",
+      "sg_event_id": "sim_delivered_-1669296259750403996",
+      "sg_message_id": "msg_-1669296259750403996",
+      "received_at": "2025-10-20T00:56:45.372462"
+    },
+    {
+      "email": "ladesaiteja24@gmail.com",
+      "timestamp": 1760902005,
+      "event": "delivered",
+      "sg_event_id": "sim_delivered_5100056752182948686",
+      "sg_message_id": "msg_5100056752182948686",
+      "received_at": "2025-10-20T00:56:47.649408"
+    },
+    {
+      "email": "shanmugapriyapalanivel2005@gmail.com",
+      "timestamp": 1760902007,
+      "event": "delivered",
+      "sg_event_id": "sim_delivered_5018286202573907951",
+      "sg_message_id": "msg_5018286202573907951",
+      "received_at": "2025-10-20T00:56:49.942488"
+    },
+    {
+      "email": "ladechandarrao35@gmail.com",
+      "timestamp": 1760902010,
+      "event": "delivered",
+      "sg_event_id": "sim_delivered_-3937319444845497562",
+      "sg_message_id": "msg_-3937319444845497562",
+      "received_at": "2025-10-20T00:56:52.204687"
+    },
+    {
+      "email": "126156007@sastra.ac.in",
+      "timestamp": 1760902012,
+      "event": "delivered",
+      "sg_event_id": "sim_delivered_6231758316849984184",
+      "sg_message_id": "msg_6231758316849984184",
+      "received_at": "2025-10-20T00:56:54.481529"
+    },
+    {
+      "email": "126156101@sastra.ac.in",
+      "timestamp": 1760902014,
+      "event": "delivered",
+      "sg_event_id": "sim_delivered_4790572843060258391",
+      "sg_message_id": "msg_4790572843060258391",
+      "received_at": "2025-10-20T00:56:56.759861"
+    },
+    {
+      "email": "126156075@sastra.ac.in",
+      "timestamp": 1760902017,
+      "event": "open",
+      "sg_event_id": "sim_open_-6254264012837250338",
+      "sg_message_id": "msg_-6254264012837250338",
+      "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "received_at": "2025-10-20T00:57:00.057928"
+    },
+    {
+      "email": "126005041@sastra.ac.in",
+      "timestamp": 1760902020,
+      "event": "open",
+      "sg_event_id": "sim_open_-8097566459807116601",
+      "sg_message_id": "msg_-8097566459807116601",
+      "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "received_at": "2025-10-20T00:57:02.425820"
+    },
+    {
+      "email": "125004343@sastra.ac.in",
+      "timestamp": 1760902022,
+      "event": "open",
+      "sg_event_id": "sim_open_-8511087615254609839",
+      "sg_message_id": "msg_-8511087615254609839",
+      "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "received_at": "2025-10-20T00:57:04.794837"
+    },
+    {
+      "email": "126156074@sastra.ac.in",
+      "timestamp": 1760902025,
+      "event": "open",
+      "sg_event_id": "sim_open_2152405297883254186",
+      "sg_message_id": "msg_2152405297883254186",
+      "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "received_at": "2025-10-20T00:57:07.175681"
+    },
+    {
+      "email": "126015065@sastra.ac.in",
+      "timestamp": 1760902027,
+      "event": "open",
+      "sg_event_id": "sim_open_-1669296259750403996",
+      "sg_message_id": "msg_-1669296259750403996",
+      "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "received_at": "2025-10-20T00:57:09.579199"
+    },
+    {
+      "email": "ladesaiteja24@gmail.com",
+      "timestamp": 1760902029,
+      "event": "open",
+      "sg_event_id": "sim_open_5100056752182948686",
+      "sg_message_id": "msg_5100056752182948686",
+      "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "received_at": "2025-10-20T00:57:11.943139"
+    },
+    {
+      "email": "shanmugapriyapalanivel2005@gmail.com",
+      "timestamp": 1760902032,
+      "event": "open",
+      "sg_event_id": "sim_open_5018286202573907951",
+      "sg_message_id": "msg_5018286202573907951",
+      "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "received_at": "2025-10-20T00:57:14.307305"
+    },
+    {
+      "email": "126156075@sastra.ac.in",
+      "timestamp": 1760902035,
+      "event": "click",
+      "sg_event_id": "sim_click_-6254264012837250338",
+      "sg_message_id": "msg_-6254264012837250338",
+      "url": "https://analytos.ai",
+      "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "received_at": "2025-10-20T00:57:17.691917"
+    },
+    {
+      "email": "126005041@sastra.ac.in",
+      "timestamp": 1760902037,
+      "event": "click",
+      "sg_event_id": "sim_click_-8097566459807116601",
+      "sg_message_id": "msg_-8097566459807116601",
+      "url": "https://analytos.ai",
+      "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "received_at": "2025-10-20T00:57:20.076026"
+    },
+    {
+      "email": "125004343@sastra.ac.in",
+      "timestamp": 1760902040,
+      "event": "click",
+      "sg_event_id": "sim_click_-8511087615254609839",
+      "sg_message_id": "msg_-8511087615254609839",
+      "url": "https://analytos.ai",
+      "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "received_at": "2025-10-20T00:57:22.459351"
+    },
+    {
+      "email": "126156074@sastra.ac.in",
+      "timestamp": 1760902042,
+      "event": "click",
+      "sg_event_id": "sim_click_2152405297883254186",
+      "sg_message_id": "msg_2152405297883254186",
+      "url": "https://analytos.ai",
+      "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "received_at": "2025-10-20T00:57:24.830568"
+    },
+    {
+      "email": "126156101@sastra.ac.in",
+      "timestamp": 1760902046,
+      "event": "bounce",
+      "sg_event_id": "sim_bounce_4790572843060258391",
+      "sg_message_id": "msg_4790572843060258391",
+      "reason": "550 5.1.1 The email account does not exist",
+      "type": "bounce",
+      "status": "5.1.1",
+      "received_at": "2025-10-20T00:57:28.243521"
+    }
+  ]
+}

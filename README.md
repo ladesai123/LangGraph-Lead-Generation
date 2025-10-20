@@ -322,7 +322,7 @@ The workflow is entirely configured via `workflow.json`:
 
 ## 🎬 Demo
 
-**Video Demo**: [Watch on YouTube](#) *(coming soon)*
+**Video Demo**: [[Watch on Veed](https://www.veed.io/view/813093b0-d803-4d12-aa72-6da62ea38c7d?source=editor&panel=share )](#) *(click)*
 
 **Live Dashboard**: Run `python webhook_server.py` and visit http://localhost:5000/
 
